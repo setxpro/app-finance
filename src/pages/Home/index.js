@@ -71,9 +71,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 18,
     fontWeight: "bold",
-    marginLeft: 14,
-    marginRight: 14,
-    marginTop: 14,
+    margin: 14
   },
   list: {
     marginStart: 14,
